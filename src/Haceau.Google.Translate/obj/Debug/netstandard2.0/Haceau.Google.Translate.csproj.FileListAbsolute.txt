@@ -1,0 +1,9 @@
+G:\code\CSharp\Haceau.Google.Translate\Haceau.Google.Translate\bin\Debug\netstandard2.0\Haceau.Google.Translate.deps.json
+G:\code\CSharp\Haceau.Google.Translate\Haceau.Google.Translate\bin\Debug\netstandard2.0\Haceau.Google.Translate.dll
+G:\code\CSharp\Haceau.Google.Translate\Haceau.Google.Translate\bin\Debug\netstandard2.0\Haceau.Google.Translate.pdb
+G:\code\CSharp\Haceau.Google.Translate\Haceau.Google.Translate\obj\Debug\netstandard2.0\Haceau.Google.Translate.csprojAssemblyReference.cache
+G:\code\CSharp\Haceau.Google.Translate\Haceau.Google.Translate\obj\Debug\netstandard2.0\Haceau.Google.Translate.AssemblyInfoInputs.cache
+G:\code\CSharp\Haceau.Google.Translate\Haceau.Google.Translate\obj\Debug\netstandard2.0\Haceau.Google.Translate.AssemblyInfo.cs
+G:\code\CSharp\Haceau.Google.Translate\Haceau.Google.Translate\obj\Debug\netstandard2.0\Haceau.Google.Translate.csproj.CoreCompileInputs.cache
+G:\code\CSharp\Haceau.Google.Translate\Haceau.Google.Translate\obj\Debug\netstandard2.0\Haceau.Google.Translate.dll
+G:\code\CSharp\Haceau.Google.Translate\Haceau.Google.Translate\obj\Debug\netstandard2.0\Haceau.Google.Translate.pdb

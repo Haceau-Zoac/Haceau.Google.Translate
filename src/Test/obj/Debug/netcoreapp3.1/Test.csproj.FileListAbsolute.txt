@@ -1,0 +1,17 @@
+G:\code\CSharp\Haceau.Google.Translate\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+G:\code\CSharp\Haceau.Google.Translate\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+G:\code\CSharp\Haceau.Google.Translate\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+G:\code\CSharp\Haceau.Google.Translate\Test\bin\Debug\netcoreapp3.1\Test.exe
+G:\code\CSharp\Haceau.Google.Translate\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+G:\code\CSharp\Haceau.Google.Translate\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+G:\code\CSharp\Haceau.Google.Translate\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+G:\code\CSharp\Haceau.Google.Translate\Test\bin\Debug\netcoreapp3.1\Test.dll
+G:\code\CSharp\Haceau.Google.Translate\Test\bin\Debug\netcoreapp3.1\Test.pdb
+G:\code\CSharp\Haceau.Google.Translate\Test\bin\Debug\netcoreapp3.1\Jurassic.dll
+G:\code\CSharp\Haceau.Google.Translate\Test\bin\Debug\netcoreapp3.1\Haceau.Google.Translate.dll
+G:\code\CSharp\Haceau.Google.Translate\Test\bin\Debug\netcoreapp3.1\Haceau.Google.Translate.pdb
+G:\code\CSharp\Haceau.Google.Translate\Test\obj\Debug\netcoreapp3.1\Test.csproj.CopyComplete
+G:\code\CSharp\Haceau.Google.Translate\Test\obj\Debug\netcoreapp3.1\Test.dll
+G:\code\CSharp\Haceau.Google.Translate\Test\obj\Debug\netcoreapp3.1\Test.pdb
+G:\code\CSharp\Haceau.Google.Translate\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+G:\code\CSharp\Haceau.Google.Translate\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
